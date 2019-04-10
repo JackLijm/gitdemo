@@ -1,5 +1,5 @@
 /**
- * <p>文件名称: AAA.java</p>
+ * <p>文件名称: aaa.java</p>
  * <p>文件描述: </p>
  * <p>版权所有: 版权所有(C)2016-</p>
  * <p>公    司: 金证财富南京科技有限公司</p>
@@ -20,7 +20,7 @@
  * @author lijm@szkingdom.com
  */
 
-public class AAA {
+public class aaa {
     public static void main(String[] args) {
         System.out.println("A");
     }
